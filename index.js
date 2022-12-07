@@ -1,5 +1,6 @@
 window.addEventListener('load', calculateTime);
 
+
 function calculateTime() { 
   var date = new Date();
   var dayNumber = date.getDay();
